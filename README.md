@@ -1,1 +1,1 @@
-# 202002_q_devops_aula01
+Esse repositório é o primeiro da aula de DevOps
